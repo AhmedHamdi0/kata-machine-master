@@ -62,6 +62,6 @@ for testing each day.
 
 #### Testing
 ```
-npx jest <name of the fle to be tested>
+npx jest <name of the file to be tested>
 ```
-The test cases are alreadt implemented in `src/__tests__`
+The test cases are already implemented in `src/__tests__`
