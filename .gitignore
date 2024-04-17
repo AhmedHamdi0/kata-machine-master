@@ -3,3 +3,4 @@
 .pnp.cjs
 .gitattributes
 .idea
+node_modules
